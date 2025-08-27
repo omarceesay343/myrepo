@@ -1,3 +1,3 @@
 # myrepo
 Repository for testing my Git/GitHub setup
-"ur momma" 
+"thas why yo shoes raggedy" 
